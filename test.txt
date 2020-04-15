@@ -6,8 +6,3 @@ Adding more text
 
 Changes for featureB
 
-The END!
-<<<<<<< HEAD
-=======
-
->>>>>>> featureB
